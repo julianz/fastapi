@@ -36,8 +36,8 @@ GitHub: <a href="https://github.com/tiangolo/full-stack-fastapi-postgresql" clas
     * **JWT Authentication** handling.
     * Login view.
     * After login, main dashboard view.
-    * Main dashboard with user creation and edition.
-    * Self user edition.
+    * Main dashboard with user creation and addition.
+    * Self user addition.
     * **Vuex**.
     * **Vue-router**.
     * **Vuetify** for beautiful material design components.
